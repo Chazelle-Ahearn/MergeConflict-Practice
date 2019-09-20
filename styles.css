@@ -1,0 +1,17 @@
+.firstbox {
+  height: 200px;
+  width: 200px;
+  background-color: pink;
+}
+
+.secondbox {
+  height: 400px;
+  width: 400px;
+  background-color: yellow;
+}
+
+.boxthree {
+  height: 600px;
+  width: 600px;
+  background-color: blue;
+}
